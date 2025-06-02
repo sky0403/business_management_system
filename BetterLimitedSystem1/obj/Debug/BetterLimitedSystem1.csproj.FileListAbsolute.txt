@@ -1,0 +1,282 @@
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\ZstdNet.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ChangePassword.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Inventory.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Home.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Properties.Resources.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Register.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CopyComplete
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.StaffList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateSalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateProduct.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.OrdereditemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ProductDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryandInstallationManagement.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\itextsharp.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\itextsharp.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateMemo.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Supplier.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Order_Detail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyDeliveryList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyInstallationList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.EditStaff.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddDeliveryWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddInstallationWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.GoodsReturn.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseItemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem1\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\ZstdNet.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddDeliveryWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddInstallationWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ChangePassword.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateMemo.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateProduct.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateSalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyDeliveryList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyInstallationList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryandInstallationManagement.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.EditStaff.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.GoodsReturn.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Order_Detail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.OrdereditemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ProductDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseItemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Inventory.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Home.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Properties.Resources.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Register.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.StaffList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Statistics.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Supplier.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CopyComplete
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InwardsRecord.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.WorkManMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe.config
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.pdb
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Google.Protobuf.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\ZstdNet.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Memory.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Buffers.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.xml
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\MySql.Data.xml
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.AssemblyReference.cache
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe.config
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddDeliveryWorkMan.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddInstallationWorkMan.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ChangePassword.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateMemo.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateProduct.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateSalesOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyDeliveryList.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyInstallationList.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryandInstallationManagement.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.EditStaff.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.GoodsReturn.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InwardsRecord.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Order_Detail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.OrdereditemDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ProductDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseItemDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderDetail.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderList.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesOrder.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Inventory.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Home.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Properties.Resources.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Register.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesMenu.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.StaffList.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Statistics.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Supplier.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.WorkManMenu.resources
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.GenerateResource.cache
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CoreCompileInputs.cache
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CopyComplete
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe
+C:\Users\mjuki\Desktop\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\ZstdNet.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\itextsharp.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddDeliveryWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddInstallationWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ChangePassword.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateMemo.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateProduct.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateSalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyDeliveryList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyInstallationList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryandInstallationManagement.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.EditStaff.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.GoodsReturn.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InwardsRecord.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Order_Detail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.OrdereditemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ProductDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseItemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Inventory.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Home.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Properties.Resources.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Register.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.StaffList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Statistics.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Supplier.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.WorkManMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CopyComplete
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem2\BetterLimitedSystem2\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\BetterLimitedSystem1.pdb
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\itextsharp.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\MySql.Data.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\Google.Protobuf.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\ZstdNet.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\System.Memory.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\System.Buffers.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\itextsharp.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\bin\Debug\MySql.Data.xml
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe.config
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddDeliveryWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.AddInstallationWorkMan.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ChangePassword.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateMemo.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateProduct.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.CreateSalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyDeliveryList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DailyInstallationList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryandInstallationManagement.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.DeliveryOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.EditStaff.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.GoodsReturn.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InstallationOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.InwardsRecord.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Order_Detail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.OrdereditemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.ProductDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseItemDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderDetail.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.PurchaseOrderList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesOrder.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Inventory.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Home.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Properties.Resources.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Register.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.SalesMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.StaffList.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Statistics.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.Supplier.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.WorkManMenu.resources
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.csproj.CopyComplete
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.exe
+C:\Users\user\OneDrive\桌面\ive(software engineering\sem3\System Development Project\EA\BetterLimitedSystem3\BetterLimitedSystem1\obj\Debug\BetterLimitedSystem1.pdb
